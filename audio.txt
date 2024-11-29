@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>audio</title>
+</head>
+<body>
+
+<audio controls>
+	<source src="C:\Users\gramaylhon\Downloads\fredd_29-11-24_20-09-40-809.mp4" type="audio/mp4">
+</audio>
+ <audio controls>
+	<source src="C:\Users\gramaylhon\Downloads\silly_29-11-24_20-10-04-283 (2).mp4" type="audio/mp4">
+</audio>
+
+  
+</body>
+</html>
